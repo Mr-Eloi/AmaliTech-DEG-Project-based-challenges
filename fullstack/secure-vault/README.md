@@ -1,6 +1,14 @@
 # SecureVault File Explorer Dashboard
 
-SecureVault is an enterprise grade cloud security dashboard featuring a high-performance, accessible recursive file explorer UI. Designed for environments like law firms and banks where deeply nested, high-density file structures (2 to 20+ levels) are navigated daily, this dashboard delivers a fast, mouse-free, and minimal dark-mode experience.
+## Live Demo & Design Reference
+
+### Production Deployment:
+[Demo Link](https://secure-vault-tech.vercel.app/)
+
+### Figma / Design Reference:
+[Figma Link](https://www.figma.com/design/3AFpmU4lcJfEBSn4pYxgTJ/SecureVault?m=auto&t=WDlYuCrXN2MIeQ0S-1)
+
+SecureVault is an enterprise-grade cloud security dashboard featuring a high-performance, accessible recursive file explorer UI. Designed for environments like law firms and banks where deeply nested, high-density file structures (2 to 20+ levels) are navigated daily, this dashboard delivers a fast, keyboard-first, and minimal dark-mode experience.
 
 ## Live Application Features
 - **Fully Recursive Tree Render**: Visualizes folders and files down to infinite nesting levels without breaking the grid layout.
